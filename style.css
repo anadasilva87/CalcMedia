@@ -79,10 +79,16 @@ body {
   #aprovado,
   #reprovado {
     color: #fff;
+    font-size: 25px;
   }
   
   .rep {
     color: #540413;
+  }
+
+  .resultados {
+    margin-left: 200px;
+    margin-right: 200px;
   }
   
   .footer {
